@@ -69,10 +69,50 @@ main {
     color: rgba(128, 128, 128, 0.5);
 }
 
+.bottone3 {
+    background-color:#9C72E4;
+    border: 0px;
+    width: 50px;
+    height: 20px;
+    font-size: 0.6em;
+    border-radius: 10px;
+    color: white;
+}
+
+.bottone4 {
+    background-color: #64C0A9;
+    border: 0px;
+    width: 50px;
+    height: 20px;
+    font-size: 0.6em;
+    border-radius: 8px;
+    color: white;
+}
+
+.bottone5 {
+    background-color: #dd8410;
+    border: 0px;
+    width: 40px;
+    height: 20px;
+    font-size: 0.6em;
+    border-radius: 8px;
+    color: white;
+}
 
 .circle-check {
     border: 1px solid green;
     color: green;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.circle-cross {
+    border: 1px solid red;
+    color: red;
     border-radius: 50%;
     width: 20px;
     height: 20px;
