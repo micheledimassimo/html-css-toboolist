@@ -22,12 +22,30 @@ main {
     padding: 20px 0;
 }
 
+.container {
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 20px;
+
+}
+
+
 .task-container {
     background-color: white;
     padding: 20px;
+  
     border-radius: 10px;
     vertical-align: middle;
 }
+
+.list-container {
+    background-color: white;
+    padding: 20px;
+    margin-top: 3px;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+
 
 .bottone1 {
     background-color: #47ADF1;
@@ -49,4 +67,16 @@ main {
     border-radius: 4px;
     text-align: center;
     color: rgba(128, 128, 128, 0.5);
+}
+
+
+.circle-check {
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    display: inline-block;
+    text-align: center;
 }
