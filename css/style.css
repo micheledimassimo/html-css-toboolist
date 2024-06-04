@@ -149,5 +149,6 @@ main {
 
 .spacespan {
     padding: 10px;
-    
+    font-style: italic;
+    font-weight: bold;
 }
