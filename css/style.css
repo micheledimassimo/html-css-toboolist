@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*header*/
+header img,
+header h1 {
+    vertical-align: middle;
+}
+
+h1 {
+    display:inline;
+}
+
+/*main*/
+
+main {
+    background-color: #f6f8f9e5;
+    padding: 20px 0;
+}
+
+.task-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+
+.bottone1 {
+    background-color: #47ADF1;
+    border: 0px;
+    width: 50px;
+    height: 20px;
+    font-size: 0.6em;
+    border-radius: 4px;
+    color: white;
+}
+
+
+.bottone2 {
+    background-color: rgba(255, 255, 255) ;
+    border-color: rgba(128, 128, 128, 0.5);
+    width: 60px;
+    height: 20px;
+    font-size: 0.5em;
+    border-radius: 4px;
+    text-align: center;
+    color: rgba(128, 128, 128, 0.5);
+}
